@@ -66,5 +66,4 @@ I specialize in working with large datasets to uncover trends and patterns, crea
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
